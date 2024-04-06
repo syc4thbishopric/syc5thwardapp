@@ -1,7 +1,7 @@
 export const config = {
   wardName: "Sycamores 5th Ward",
   apiUrl: "https://api.latterdayward.com/api",
-  apiWard: "sycamores5th",
+  apiWard: "sycamores-5th",
   apiHeaders: {
     headers: {
       "x-api-key": process.env.LDW_KEY,
@@ -10,7 +10,7 @@ export const config = {
   },
   pages: {
     index: {
-      heroCardId: "65f257c9f50a146457c71732",
+      heroCardId: "6611836af50a146457c71744",
     },
   },
   httpHeaders: {
